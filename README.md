@@ -15,3 +15,27 @@
 
 **Voice Control:**
                   The robot can be controlled using an Andriod application. Users can use certain commands to make the robot go straight, right, left and reverse.
+
+
+**Hardware Requirement:**
+           * 5mm Acrylic Sheet 
+           * DC Gear Motor(4)
+           * Arduino UNO
+           * IR Sensor (2)
+           * L298 Motor Driver 
+           * HC-05 Bluetooth Module 
+           * IR Receiver Module
+           * IR Remote 
+           * sg90 servo motor
+           * Ultrasonic Sensor Holder 
+           * Ultrasonic Sensor hc-sr04 
+           * 4Pcs Smart Robot Car Wheels 
+           * Male to Female jumper Wires
+           * Male to Male jumper wires
+           * On/Off Switch
+           * 18650 Battery Holder – 2 Cell(2)
+           * 18650 Battery Cell 3.7V(4)
+
+**Software Requirement:**
+           * Arduino IDE Software
+
