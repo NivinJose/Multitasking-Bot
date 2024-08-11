@@ -7,7 +7,7 @@
 **Line Following:**
                   The bot will be equipped with sensors capable of detecting lines on the ground and autonomously following them. This feature enables the robot to navigate predefined paths accurately, making it useful for tasks like warehouse automation or guiding visually impaired individuals.
 
-**Obstacle Avoidance:** 
+## Obstacle Avoidance: ##
                   Utilizing sensors such as ultrasonic or infrared, the robot will detect obstacles in its path and navigate around them. This capability ensures safe operation in dynamic environments, preventing collisions and enabling the robot to explore new territories autonomously.
 
 **Remote Control:**
@@ -36,6 +36,6 @@
            * 18650 Battery Holder – 2 Cell(2)
            * 18650 Battery Cell 3.7V(4)
 
-**Software Requirement:**
+# Software Requirement: #
            * Arduino IDE Software
 
