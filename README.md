@@ -17,7 +17,7 @@
                   The robot can be controlled using an Andriod application. Users can use certain commands to make the robot go straight, right, left and reverse.
 
 
-**Hardware Requirement:**
+# Hardware Requirement: #
            * 5mm Acrylic Sheet 
            * DC Gear Motor(4)
            * Arduino UNO
