@@ -1,6 +1,6 @@
 # Multitasking-Bot
 
-<h3>**Project Description:**</h3>h3><br /> Multitasking Bot with Line Following, Obstacle Avoidance, Remote control and Voice control
+<h3>**Project Description:**</h3><br /> Multitasking Bot with Line Following, Obstacle Avoidance, Remote control and Voice control
 
 __Features:__
 
