@@ -2,18 +2,18 @@
 
 **Project Description:**<br /> Multitasking Bot with Line Following, Obstacle Avoidance, Remote control and Voice control
 
-**Features:**
+__Features:__
 
-**Line Following:**
+__Line Following:__<br />
                   The bot will be equipped with sensors capable of detecting lines on the ground and autonomously following them. This feature enables the robot to navigate predefined paths accurately, making it useful for tasks like warehouse automation or guiding visually impaired individuals.
 
-__Obstacle Avoidance:__
+__Obstacle Avoidance:__<br />
                   Utilizing sensors such as ultrasonic or infrared, the robot will detect obstacles in its path and navigate around them. This capability ensures safe operation in dynamic environments, preventing collisions and enabling the robot to explore new territories autonomously.
 
-**Remote Control:**
+__Remote Control:__<br />
                   The robot can be controlled remotely using an Android application. Users can send commands to the robot through the application interface, such as initiating specific movements and adjusting speed. This feature adds flexibility and convenience, allowing users to interact with the robot from a distance.
 
-**Voice Control:**
+__Voice Control:__<br />
                   The robot can be controlled using an Andriod application. Users can use certain commands to make the robot go straight, right, left and reverse.
 
 
