@@ -44,7 +44,7 @@
 
 ![capture](https://github.com/user-attachments/assets/c8c2cd8b-de20-4d96-b383-4cbdb782ac4c)
 
-<h1>Code:</h1>
+# Code: #
 
 #include <SoftwareSerial.h>
 SoftwareSerial BT_Serial(2, 3); 
