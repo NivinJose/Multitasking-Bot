@@ -1,4 +1,4 @@
-# Multitasking-Bot
+# Multitasking-Bot #
 
 <h3>Project Description:</h3> Multitasking Bot with Line Following, Obstacle Avoidance, Remote control and Voice control
 
@@ -289,9 +289,12 @@ void Stop() {
     digitalWrite(in3, LOW); 
     digitalWrite(in4, LOW); 
 }
-
+```
 
 <h1>Media:</h1>
 
-![1712423457236](https://github.com/user-attachments/assets/71417e23-2f79-43c7-8174-f17fee94f9fb)
+![1712423457236](https://github.com/user-attachments/assets/bb58a17a-c15d-4fa9-a540-9e99772b3c0e)
+
+
+
 
